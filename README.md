@@ -1,3 +1,5 @@
+wip
+
 TODO:
 - [x] Plugin listing
 - [ ] Plugin locations (tell user about 32 vs 64 bit locations, admin, etc.)
